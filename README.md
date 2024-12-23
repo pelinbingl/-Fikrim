@@ -99,6 +99,7 @@ Test veri seti üzerinde modelin performansı değerlendirilmiştir:
 
 - **Test Kıyıp Değeri:** 0.0073  
 - **Test Doğruluk Oranı:** %100
+![image](https://github.com/user-attachments/assets/8f8f5d99-35b1-47d1-99ee-ad1ff1e7e1ed)
 
 ## Sonuçların Görselleştirilmesi
 Eğitim ve doğrulama süreçlerindeki doğruluk oranları aşağıdaki grafiklerde gösterilmiştir:
